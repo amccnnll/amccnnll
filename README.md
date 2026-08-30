@@ -19,6 +19,5 @@ Take a gander at some of my interactive browser based ecological simulations her
 
 ### GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amccnnll&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amccnnll&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
