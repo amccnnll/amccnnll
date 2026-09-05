@@ -9,11 +9,6 @@ Take a gander at some of my interactive browser based ecological simulations her
 *   Processing complex marine spatial datasets, including cetacean photo-identification data.
 *   Developing interactive, browser-based ecological simulations: [Ecodemos](https://amccnnll.github.io/ecodemos/)
 
-### GitHub Activity
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
 ### Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -21,3 +16,8 @@ Take a gander at some of my interactive browser based ecological simulations her
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-Spatial_Data-blue?style=flat-square)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph_Theory-green?style=flat-square)
+
+### GitHub Activity
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</div>
