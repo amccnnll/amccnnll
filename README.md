@@ -12,8 +12,8 @@ Take a gander at some of my interactive browser based ecological simulations her
 ### Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)](https://p5js.org/)
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
+[![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)](https://p5js.org/)
 [![Stan](https://img.shields.io/badge/Stan-Bayesian_Modelling-2C3E50?style=flat-square)](https://mc-stan.org/)
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://www.qgis.org/)
 [![GDAL](https://img.shields.io/badge/GDAL-Spatial_Data-blue?style=flat-square)](https://gdal.org/)
