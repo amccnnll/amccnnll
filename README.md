@@ -14,7 +14,7 @@ Take a gander at some of my interactive browser based ecological simulations her
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Stan](https://img.shields.io/badge/Stan-B2001E?style=flat-square&logo=data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%2024%2024"><circle%20cx="12"%20cy="12"%20r="10"%20fill="white"/><path%20d="M8%2016.5c1-1%202-3.5%204-3.5s3%202.5%204%203.5M8%207.5c1%201%202%203.5%204%203.5s3-2.5%204-3.5"%20stroke="%23B2001E"%20stroke-width="2"%20stroke-linecap="round"%20fill="none"/></svg>&logoColor=white)
+![Stan](https://img.shields.io/badge/Stan-B2001E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTggMTYuNWMxLTEgMi0zLjUgNC0zLjVzMyAyLjUgNCAzLjVNOCA3LjVjMSAxIDIgMy41IDQgMy41czMtMi41IDQtMy41IiBzdHJva2U9IiNCMjAwMUUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIi8+PC9zdmc+)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-Spatial_Data-blue?style=flat-square)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph_Theory-green?style=flat-square)
