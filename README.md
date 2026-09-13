@@ -5,10 +5,11 @@ I'm researching networks, animal movement and habitat use, marine biology, spati
 Take a gander at some of my interactive browser based ecological simulations here: https://amccnnll.github.io/ecodemos/
 
 ### Current Focuses (foci?)
-*   Developing geospatial network analyses using bipartite affiliation networks and temporal hypergraphs.
+*   Developing geospatial network analyses using bipartite affiliation networks with consensus and strict spatial null models.
 *   Processing complex marine spatial datasets, including cetacean photo-identification data.
 *   Developing interactive, browser-based ecological simulations: [Ecodemos](https://amccnnll.github.io/ecodemos/)
-*   
+*  ?
+  
 ### Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
